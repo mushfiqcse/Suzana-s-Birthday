@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Suzana Azad",
+  "description": "A dreamy, heartfelt birthday tribute celebrating Suzana Azad on September 25th with memories, personalized cards, countdown, and warm wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
